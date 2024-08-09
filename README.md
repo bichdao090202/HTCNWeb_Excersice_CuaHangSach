@@ -1,35 +1,38 @@
 # Bài tập lớn môn Lập trình công nghệ Web
 - Project sử dụng HTML, CSS, Javascript, Bootrap (không sử dụng server)
+- Dữ liệu render sử dụng file .js và hình ảnh trong thư mục img
 
 **Chạy project:**
 
 Chạy file TrangChu.html bằng Live Server của VSCode
 
+# Một số trang của project:
+
 **Màn hình trang chủ:**
 
-![ERD](/Reslt/trangchu.png)
+![ERD](/Result/trangchu.png)
 
-![ERD](/Reslt/trangchu2.png)
+![ERD](/Result/trangchu2.png)
 
 **Chọn danh mục sách:**
 
-![ERD](/Reslt/chondanhmucsach.png)
+![ERD](/Result/chondanhmucsach.png)
 
 **Màn hình trang danh mục sách:**
 
-![ERD](/Reslt/trangdanhmucsach.png)
+![ERD](/Result/trangdanhmucsach.png)
 
 **Trang thông tin sách:**
 
-![ERD](/Reslt/trangthongtinsach.png)
+![ERD](/Result/trangthongtinsach.png)
 
 **Trang giỏ hàng:**
 
-![ERD](/Reslt/tranggiohang.png)
+![ERD](/Result/tranggiohang.png)
 
 **Modal đăng nhập:**
 
-![ERD](/Reslt/modaldangnhap.png)
+![ERD](/Result/modaldangnhap.png)
 
 
 
